@@ -2,7 +2,7 @@
 Twitch Farmer is a bot that helps you to get more followers.
 ----------------------
 
-WRITTEN BY: baby#1337
+WRITTEN BY: BambiKu#0001
 
 CONTRIBUTE: Contributions are always welcome!
 
@@ -12,7 +12,6 @@ CONTRIBUTE: Contributions are always welcome!
 Installation
 -------------------
 ```
-git clone https://github.com/whoisbaby/TwitchFollowers
 
 cd TwitchFollowers
 
